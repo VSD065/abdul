@@ -1,9 +1,12 @@
 Hey
 This was Mr. Abdul
 He was former president of India
+<<<<<<< HEAD
 
 He was known as Missile man of India
 
 He was a great scientist
 
 He never marry
+=======
+>>>>>>> parent of 89905c8 (this is my 2nd version)
